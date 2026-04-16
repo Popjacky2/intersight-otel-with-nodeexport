@@ -87,10 +87,6 @@ Intersight API  →  intersight-otel  →  OTel Collector  →  Prometheus  → 
 - `config/grafana/dashboards/` — Pre-provisioned Grafana dashboard JSON files
 - `config/grafana/datasources/` — Grafana datasource provisioning
 
-## Kubernetes
-
-The `all-in-one.yaml` file contains a Kubernetes deployment variant with the same stack (Intersight-otel, OTel Collector, Prometheus, Grafana) configured for EKS/Fargate.
-
 ## Credits
 
 Built on [intersight-otel](https://github.com/cgascoig/intersight-otel) by Chris Gascoigne.
