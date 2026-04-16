@@ -1,3 +1,4 @@
+#open port for telemetry
 receivers:
   otlp:
     protocols:
