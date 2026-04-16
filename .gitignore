@@ -2,12 +2,3 @@
 .env
 api-key.txt
 secrets/
-
-# Network captures
-*.pcap
-
-# macOS
-.DS_Store
-
-# Claude Code
-.claude/
