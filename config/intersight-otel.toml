@@ -1,3 +1,4 @@
+#original intersight-otel toml
 otel_collector_endpoint = "http://otel-collector:4317"
 
 [[pollers]]
