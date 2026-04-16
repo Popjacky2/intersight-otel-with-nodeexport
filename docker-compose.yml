@@ -91,4 +91,4 @@ volumes:
     driver_opts:
       type: none
       o: bind
-      device: /share/Public/VolContainer/prometheus
+      device: /you/own/path
